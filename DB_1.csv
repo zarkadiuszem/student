@@ -1,0 +1,360 @@
+﻿id;age;sex;salary;education_level;ecology;artificial_intelligence;life expectancy
+1;18;M;4500;vocational school;strongly agree;strongly agree;disagree
+2;19;F;4510;high school;;disagree;strongly agree
+3;20;M;4520;vocational school;strongly agree;strongly agree;disagree
+4;21;F;4530;high school;strongly agree;disagree;strongly agree
+5;22;M;4540;vocational school;strongly agree;strongly agree;disagree
+6;23;F;4550;high school;disagree;disagree;strongly agree
+7;24;M;4560;high school;strongly agree;strongly agree;disagree
+8;25;F;4570;high school;strongly agree;disagree;strongly agree
+9;26;M;4580;high school;strongly agree;strongly agree;disagree
+10;27;F;4590;college;strongly agree;disagree;strongly agree
+11;28;M;4600;college;strongly agree;strongly agree;disagree
+12;29;F;4610;college;strongly agree;disagree;strongly agree
+13;18;M;4400;vocational school;strongly disagree;strongly agree;disagree
+14;19;F;4630;high school;strongly agree;disagree;strongly agree
+15;20;M;;vocational school;strongly agree;strongly agree;disagree
+16;21;F;4650;high school;strongly agree;disagree;strongly agree
+17;22;M;4660;vocational school;strongly agree;strongly agree;disagree
+18;23;F;4670;college;strongly agree;disagree;strongly agree
+19;24;M;4680;college;;strongly agree;disagree
+20;25;F;4690;college;strongly agree;disagree;strongly agree
+21;26;M;4700;college;strongly agree;strongly agree;disagree
+22;27;F;4710;college;disagree;disagree;strongly agree
+23;28;M;4720;high school;strongly agree;strongly agree;disagree
+24;29;F;4730;high school;strongly agree;disagree;strongly agree
+25;18;M;4740;vocational school;strongly agree;strongly agree;disagree
+26;19;F;4750;high school;strongly agree;disagree;strongly agree
+27;20;M;4760;vocational school;strongly agree;strongly agree;disagree
+28;21;F;4770;high school;strongly agree;disagree;strongly agree
+29;22;M;4780;vocational school;strongly agree;strongly agree;disagree
+30;23;F;4790;high school;strongly agree;disagree;strongly agree
+31;24;M;4800;high school;strongly agree;strongly agree;disagree
+32;25;F;4810;college;strongly agree;disagree;strongly agree
+33;26;M;4820;college;strongly agree;strongly agree;disagree
+34;27;F;4830;college;strongly agree;disagree;strongly agree
+35;28;M;4840;college;strongly agree;strongly agree;disagree
+36;29;F;4850;college;strongly agree;disagree;strongly agree
+37;18;M;4860;high school;strongly agree;strongly agree;disagree
+38;19;F;4870;vocational school;strongly agree;disagree;strongly agree
+39;20;M;4880;high school;strongly agree;strongly agree;disagree
+40;21;F;4890;vocational school;strongly agree;disagree;strongly agree
+41;22;M;4900;high school;strongly agree;strongly agree;disagree
+42;23;F;4910;vocational school;strongly agree;disagree;strongly agree
+43;24;M;4920;vocational school;strongly agree;strongly agree;disagree
+44;25;F;4930;vocational school;strongly agree;disagree;strongly agree
+45;26;M;4940;vocational school;strongly agree;strongly agree;disagree
+46;27;F;4950;vocational school;strongly agree;disagree;strongly agree
+47;28;M;4960;vocational school;strongly agree;agree;disagree
+48;29;F;4970;vocational school;strongly agree;neither agree nor disagree;strongly agree
+49;;M;4980;vocational school;strongly agree;agree;disagree
+50;31;F;4990;vocational school;strongly agree;neither agree nor disagree;strongly agree
+51;32;M;5000;vocational school;strongly agree;agree;disagree
+52;33;F;5010;vocational school;strongly agree;neither agree nor disagree;strongly agree
+53;34;M;5020;vocational school;strongly agree;agree;disagree
+54;35;F;5030;vocational school;strongly agree;neither agree nor disagree;strongly agree
+55;36;M;5040;high school;strongly agree;agree;disagree
+56;37;F;5050;high school;agree;neither agree nor disagree;strongly agree
+57;38;M;5060;high school;agree;agree;disagree
+58;39;F;5070;high school;agree;neither agree nor disagree;strongly agree
+59;40;M;5080;high school;agree;agree;disagree
+60;30;F;5090;high school;agree;neither agree nor disagree;strongly agree
+61;31;M;5100;high school;agree;agree;disagree
+62;32;F;5110;high school;agree;;
+63;33;M;5120;high school;disagree;agree;disagree
+64;34;F;5130;high school;agree;neither agree nor disagree;strongly agree
+65;35;M;5140;high school;agree;agree;disagree
+66;36;F;5150;high school;agree;neither agree nor disagree;strongly agree
+67;37;M;5160;high school;strongly disagree;agree;disagree
+68;38;F;5170;high school;agree;neither agree nor disagree;strongly agree
+69;39;M;5180;high school;agree;agree;disagree
+70;40;F;5190;college;agree;neither agree nor disagree;strongly agree
+71;30;M;5200;college;agree;agree;disagree
+72;31;F;5210;college;agree;neither agree nor disagree;strongly agree
+73;32;M;5220;college;agree;agree;disagree
+74;33;F;5230;college;agree;neither agree nor disagree;strongly agree
+75;34;M;5240;college;agree;agree;disagree
+76;35;F;5250;college;agree;neither agree nor disagree;strongly agree
+77;36;M;5260;college;agree;agree;disagree
+78;37;F;5270;college;agree;neither agree nor disagree;strongly agree
+79;38;M;5280;college;agree;agree;disagree
+80;39;F;5290;college;agree;neither agree nor disagree;strongly agree
+81;40;M;5300;college;agree;agree;disagree
+82;30;F;5310;college;agree;neither agree nor disagree;strongly agree
+83;31;M;5320;college;agree;agree;disagree
+84;32;F;5330;college;agree;neither agree nor disagree;strongly agree
+85;33;M;5340;college;agree;agree;disagree
+86;34;F;5350;college;agree;neither agree nor disagree;strongly agree
+87;35;M;5360;college;agree;agree;disagree
+88;36;F;5370;college;agree;neither agree nor disagree;strongly agree
+89;37;M;5380;vocational school;agree;agree;disagree
+90;38;F;5390;vocational school;agree;neither agree nor disagree;strongly agree
+91;39;M;5400;vocational school;agree;agree;disagree
+92;40;F;5410;vocational school;agree;neither agree nor disagree;strongly agree
+93;28;M;;vocational school;agree;agree;disagree
+94;29;F;5430;vocational school;agree;neither agree nor disagree;strongly agree
+95;;M;5440;vocational school;agree;agree;disagree
+96;31;F;5450;vocational school;agree;neither agree nor disagree;strongly agree
+97;32;M;5460;vocational school;agree;agree;disagree
+98;33;F;5470;vocational school;agree;neither agree nor disagree;strongly agree
+99;34;M;5480;vocational school;agree;agree;disagree
+100;35;F;5490;vocational school;agree;neither agree nor disagree;strongly agree
+101;36;M;5500;vocational school;agree;agree;disagree
+102;37;F;5510;high school;agree;neither agree nor disagree;strongly agree
+103;38;M;5520;high school;agree;agree;disagree
+104;39;F;5530;high school;agree;;strongly agree
+105;240;M;5540;high school;agree;agree;disagree
+106;30;F;5550;high school;agree;neither agree nor disagree;strongly agree
+107;31;M;5560;high school;agree;agree;disagree
+108;32;F;5570;high school;agree;neither agree nor disagree;strongly agree
+109;33;M;5580;high school;disagree;agree;disagree
+110;34;F;5590;high school;agree;neither agree nor disagree;strongly agree
+111;35;M;5600;high school;agree;agree;disagree
+112;36;F;5610;high school;agree;neither agree nor disagree;strongly agree
+113;37;M;5620;high school;agree;agree;
+114;38;F;5630;high school;agree;neither agree nor disagree;strongly agree
+115;39;M;5640;high school;agree;agree;disagree
+116;40;F;5650;high school;agree;neither agree nor disagree;strongly agree
+117;30;M;5210;college;agree;agree;disagree
+118;31;F;5218;college;agree;neither agree nor disagree;strongly agree
+119;32;M;5226;college;agree;agree;disagree
+120;33;F;5234;college;agree;neither agree nor disagree;strongly agree
+121;34;M;5242;college;agree;agree;disagree
+122;35;F;5250;college;strongly disagree;neither agree nor disagree;strongly agree
+123;36;M;5258;college;agree;agree;disagree
+124;37;F;5266;college;agree;neither agree nor disagree;strongly agree
+125;38;M;5274;college;agree;agree;disagree
+126;39;F;5282;college;agree;neither agree nor disagree;strongly agree
+127;40;M;5290;college;agree;agree;disagree
+128;30;F;5298;college;agree;neither agree nor disagree;strongly agree
+129;31;M;5306;college;agree;agree;disagree
+130;32;F;5314;college;agree;neither agree nor disagree;strongly agree
+131;33;;5322;college;agree;agree;disagree
+132;34;F;5330;college;agree;agree;strongly agree
+133;35;M;5338;college;agree;agree;disagree
+134;36;F;5346;college;;agree;strongly agree
+135;37;M;5354;college;agree;agree;disagree
+136;38;F;5362;vocational school;agree;strongly disagree;disagree
+137;39;M;5370;vocational school;agree;agree;agree
+138;40;F;5378;vocational school;agree;agree;neither agree nor disagree
+139;41;M;5386;vocational school;disagree;agree;disagree
+140;42;F;5500;primary school;agree;agree;agree
+141;43;M;5510;vocational school;agree;agree;neither agree nor disagree
+142;44;F;5520;vocational school;agree;agree;disagree
+143;45;M;5530;vocational school;agree;agree;agree
+144;46;F;5540;vocational school;agree;agree;neither agree nor disagree
+145;47;M;5550;vocational school;agree;agree;disagree
+146;48;F;5560;vocational school;agree;agree;agree
+147;49;M;5570;vocational school;agree;agree;neither agree nor disagree
+148;50;F;5580;vocational school;agree;agree;disagree
+149;51;M;5590;high school;agree;agree;agree
+150;52;F;5600;high school;agree;agree;neither agree nor disagree
+151;53;M;5610;high school;agree;agree;disagree
+152;54;F;5620;;agree;agree;agree
+153;55;M;5630;high school;agree;disagree;neither agree nor disagree
+154;56;F;5640;high school;agree;agree;disagree
+155;57;M;5650;high school;agree;neither agree nor disagree;agree
+156;58;F;5660;high school;agree;neither agree nor disagree;neither agree nor disagree
+157;59;M;5670;high school;agree;neither agree nor disagree;disagree
+158;60;F;5680;high school;agree;neither agree nor disagree;agree
+159;40;M;5690;high school;agree;neither agree nor disagree;neither agree nor disagree
+160;41;F;5700;high school;agree;neither agree nor disagree;disagree
+161;42;M;5710;high school;agree;neither agree nor disagree;agree
+162;43;F;5720;high school;agree;neither agree nor disagree;neither agree nor disagree
+163;44;M;5730;high school;agree;neither agree nor disagree;disagree
+164;45;F;5740;college;agree;neither agree nor disagree;agree
+165;46;M;5750;college;agree;neither agree nor disagree;neither agree nor disagree
+166;47;F;5760;college;strongly disagree;neither agree nor disagree;disagree
+167;48;M;5770;college;agree;neither agree nor disagree;agree
+168;49;F;5780;college;agree;neither agree nor disagree;neither agree nor disagree
+169;50;M;5790;college;agree;neither agree nor disagree;disagree
+170;51;F;5800;college;agree;neither agree nor disagree;agree
+171;52;M;5810;college;agree;neither agree nor disagree;neither agree nor disagree
+172;53;F;5820;college;agree;neither agree nor disagree;disagree
+173;54;M;5830;college;agree;neither agree nor disagree;agree
+174;55;F;5840;college;agree;disagree;neither agree nor disagree
+175;56;M;5850;college;neither agree nor disagree;neither agree nor disagree;disagree
+176;57;F;5860;college;neither agree nor disagree;neither agree nor disagree;agree
+177;58;M;5870;college;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+178;59;F;5880;college;neither agree nor disagree;neither agree nor disagree;disagree
+179;60;M;5890;college;neither agree nor disagree;neither agree nor disagree;agree
+180;40;F;5900;college;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+181;41;M;5910;college;neither agree nor disagree;neither agree nor disagree;disagree
+182;42;F;5920;college;neither agree nor disagree;neither agree nor disagree;agree
+183;43;M;5930;vocational school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+184;44;F;5940;vocational school;neither agree nor disagree;neither agree nor disagree;disagree
+185;45;M;5950;vocational school;neither agree nor disagree;neither agree nor disagree;agree
+186;46;F;5960;vocational school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+187;47;M;5970;vocational school;neither agree nor disagree;neither agree nor disagree;disagree
+188;48;F;5980;vocational school;neither agree nor disagree;neither agree nor disagree;agree
+189;49;M;5990;vocational school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+190;50;F;6000;vocational school;neither agree nor disagree;neither agree nor disagree;disagree
+191;51;M;6010;vocational school;neither agree nor disagree;neither agree nor disagree;agree
+192;52;F;6020;vocational school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+193;53;M;6030;vocational school;neither agree nor disagree;neither agree nor disagree;disagree
+194;54;F;6040;vocational school;disagree;neither agree nor disagree;agree
+195;55;M;6050;vocational school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+196;56;F;6060;high school;neither agree nor disagree;neither agree nor disagree;disagree
+197;57;M;6070;high school;neither agree nor disagree;neither agree nor disagree;agree
+198;58;F;6080;high school;neither agree nor disagree;disagree;neither agree nor disagree
+199;59;M;6090;high school;neither agree nor disagree;neither agree nor disagree;disagree
+200;60;F;6100;high school;neither agree nor disagree;neither agree nor disagree;agree
+201;40;M;6110;high school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+202;41;F;6120;high school;neither agree nor disagree;neither agree nor disagree;disagree
+203;42;M;6130;high school;neither agree nor disagree;neither agree nor disagree;agree
+204;43;F;6140;high school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+205;44;M;6150;high school;neither agree nor disagree;neither agree nor disagree;disagree
+206;45;F;6160;high school;neither agree nor disagree;neither agree nor disagree;agree
+207;46;M;6170;high school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+208;47;F;6180;high school;strongly disagree;neither agree nor disagree;disagree
+209;48;M;6190;high school;neither agree nor disagree;neither agree nor disagree;agree
+210;49;F;6200;high school;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+211;50;M;6210;college;neither agree nor disagree;neither agree nor disagree;disagree
+212;51;F;6220;college;neither agree nor disagree;neither agree nor disagree;agree
+213;52;M;6230;college;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+214;53;F;6240;college;neither agree nor disagree;neither agree nor disagree;disagree
+215;54;M;6250;primary school;neither agree nor disagree;neither agree nor disagree;agree
+216;55;F;6260;college;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+217;56;M;6270;college;neither agree nor disagree;neither agree nor disagree;disagree
+218;57;F;6280;college;neither agree nor disagree;neither agree nor disagree;agree
+219;58;M;6290;college;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+220;59;F;6300;college;neither agree nor disagree;neither agree nor disagree;disagree
+221;60;M;6310;college;neither agree nor disagree;neither agree nor disagree;agree
+222;48;F;6320;college;neither agree nor disagree;disagree;neither agree nor disagree
+223;49;F;6330;college;neither agree nor disagree;neither agree nor disagree;disagree
+224;50;F;6340;college;neither agree nor disagree;neither agree nor disagree;agree
+225;51;F;6350;college;neither agree nor disagree;neither agree nor disagree;neither agree nor disagree
+226;52;F;6360;college;neither agree nor disagree;neither agree nor disagree;disagree
+227;53;F;6370;college;neither agree nor disagree;agree;agree
+228;54;F;6380;college;neither agree nor disagree;agree;neither agree nor disagree
+229;55;F;6390;college;neither agree nor disagree;agree;disagree
+230;56;F;6400;vocational school;neither agree nor disagree;agree;agree
+231;57;F;6410;vocational school;neither agree nor disagree;agree;neither agree nor disagree
+232;58;F;6420;vocational school;neither agree nor disagree;agree;disagree
+233;59;F;6430;vocational school;neither agree nor disagree;strongly disagree;agree
+234;60;F;6440;vocational school;neither agree nor disagree;agree;neither agree nor disagree
+235;40;F;6450;vocational school;neither agree nor disagree;agree;disagree
+236;41;F;6460;vocational school;neither agree nor disagree;agree;agree
+237;42;F;6470;vocational school;neither agree nor disagree;agree;neither agree nor disagree
+238;43;F;6480;vocational school;neither agree nor disagree;agree;disagree
+239;44;F;6490;vocational school;neither agree nor disagree;agree;agree
+240;45;F;6500;vocational school;neither agree nor disagree;agree;neither agree nor disagree
+241;46;F;6510;vocational school;neither agree nor disagree;agree;disagree
+242;47;F;6520;vocational school;neither agree nor disagree;agree;agree
+243;48;M;6530;high school;neither agree nor disagree;agree;neither agree nor disagree
+244;49;F;6540;high school;neither agree nor disagree;agree;disagree
+245;50;M;6550;high school;disagree;agree;agree
+246;51;F;6560;high school;neither agree nor disagree;agree;neither agree nor disagree
+247;52;M;6570;high school;neither agree nor disagree;agree;disagree
+248;53;F;6580;high school;neither agree nor disagree;agree;agree
+249;54;M;6590;high school;neither agree nor disagree;agree;neither agree nor disagree
+250;55;F;6600;high school;neither agree nor disagree;agree;agree
+251;56;M;6610;high school;neither agree nor disagree;strongly disagree;agree
+252;57;F;6620;high school;neither agree nor disagree;agree;agree
+253;58;M;6630;high school;neither agree nor disagree;agree;agree
+254;59;F;6640;high school;neither agree nor disagree;agree;strongly agree
+255;160;M;6650;high school;neither agree nor disagree;agree;strongly disagree
+256;40;F;6660;high school;neither agree nor disagree;agree;strongly agree
+257;41;M;6670;high school;neither agree nor disagree;agree;strongly disagree
+258;42;F;6680;vocational school;neither agree nor disagree;agree;strongly agree
+259;43;M;6690;vocational school;neither agree nor disagree;agree;strongly disagree
+260;44;F;6700;vocational school;neither agree nor disagree;agree;strongly agree
+261;45;M;6710;vocational school;neither agree nor disagree;agree;strongly disagree
+262;46;F;6720;vocational school;neither agree nor disagree;agree;strongly agree
+263;47;M;6730;vocational school;neither agree nor disagree;agree;strongly disagree
+264;48;F;6740;vocational school;neither agree nor disagree;agree;strongly agree
+265;49;M;6750;vocational school;neither agree nor disagree;agree;strongly disagree
+266;50;F;6760;primary school;neither agree nor disagree;agree;agree
+267;51;M;6770;vocational school;neither agree nor disagree;agree;agree
+268;52;F;6780;vocational school;neither agree nor disagree;agree;agree
+269;53;M;6790;vocational school;neither agree nor disagree;strongly disagree;agree
+270;54;F;6800;vocational school;neither agree nor disagree;agree;strongly agree
+271;55;M;6810;high school;neither agree nor disagree;agree;strongly disagree
+272;56;F;6820;high school;neither agree nor disagree;agree;strongly agree
+273;57;M;6830;high school;neither agree nor disagree;agree;strongly disagree
+274;58;F;6840;high school;neither agree nor disagree;agree;strongly agree
+275;59;M;6850;high school;strongly disagree;agree;strongly disagree
+276;60;F;6860;high school;neither agree nor disagree;agree;strongly agree
+277;40;M;6870;high school;neither agree nor disagree;agree;strongly disagree
+278;41;F;6880;high school;neither agree nor disagree;agree;strongly agree
+279;42;M;6890;high school;neither agree nor disagree;agree;strongly disagree
+280;43;F;6900;high school;neither agree nor disagree;agree;strongly agree
+281;44;M;6910;high school;neither agree nor disagree;strongly agree;strongly disagree
+282;45;F;6920;high school;neither agree nor disagree;strongly disagree;agree
+283;46;M;6930;high school;neither agree nor disagree;strongly agree;agree
+284;47;F;6940;high school;neither agree nor disagree;strongly disagree;agree
+285;48;M;6950;high school;neither agree nor disagree;strongly agree;agree
+286;49;F;6960;vocational school;neither agree nor disagree;strongly disagree;strongly agree
+287;50;M;6970;vocational school;neither agree nor disagree;strongly agree;strongly disagree
+288;51;F;6980;vocational school;neither agree nor disagree;strongly disagree;strongly agree
+289;52;M;6990;vocational school;strongly disagree;strongly agree;strongly disagree
+290;53;F;7000;vocational school;neither agree nor disagree;strongly disagree;strongly agree
+291;54;M;7010;primary school;neither agree nor disagree;strongly agree;strongly disagree
+292;55;F;7020;vocational school;neither agree nor disagree;strongly disagree;strongly agree
+293;56;M;7030;vocational school;neither agree nor disagree;strongly agree;strongly disagree
+294;57;F;7040;vocational school;neither agree nor disagree;strongly disagree;agree
+295;58;M;7050;vocational school;neither agree nor disagree;strongly agree;agree
+296;59;F;7060;vocational school;neither agree nor disagree;strongly disagree;agree
+297;60;M;7070;vocational school;neither agree nor disagree;strongly agree;agree
+298;61;F;7080;vocational school;neither agree nor disagree;strongly disagree;strongly agree
+299;62;M;7090;high school;neither agree nor disagree;strongly agree;strongly disagree
+300;63;F;7100;high school;neither agree nor disagree;strongly disagree;strongly agree
+301;64;M;7110;high school;neither agree nor disagree;strongly agree;strongly disagree
+302;65;F;7120;high school;neither agree nor disagree;strongly disagree;strongly agree
+303;66;M;7130;high school;disagree;strongly agree;strongly disagree
+304;67;F;7140;high school;neither agree nor disagree;strongly disagree;strongly agree
+305;68;M;7150;high school;neither agree nor disagree;strongly agree;strongly disagree
+306;69;F;7160;high school;neither agree nor disagree;strongly disagree;strongly agree
+307;70;M;7170;high school;neither agree nor disagree;strongly agree;strongly disagree
+308;71;F;7180;high school;neither agree nor disagree;strongly disagree;strongly agree
+309;72;M;7190;high school;strongly disagree;strongly agree;strongly disagree
+310;73;F;7200;high school;neither agree nor disagree;strongly disagree;strongly disagree
+311;74;M;7210;high school;neither agree nor disagree;strongly agree;strongly disagree
+312;75;F;7220;high school;neither agree nor disagree;strongly disagree;strongly disagree
+313;76;M;7230;high school;neither agree nor disagree;strongly agree;strongly disagree
+314;77;F;7240;college;neither agree nor disagree;strongly disagree;strongly disagree
+315;78;M;7250;college;neither agree nor disagree;strongly agree;strongly disagree
+316;79;F;7260;college;neither agree nor disagree;strongly disagree;strongly disagree
+317;80;M;7270;college;neither agree nor disagree;strongly agree;strongly disagree
+318;56;F;7280;college;neither agree nor disagree;strongly disagree;strongly disagree
+319;57;M;7290;college;agree;strongly agree;strongly disagree
+320;58;F;7300;college;agree;strongly disagree;strongly disagree
+321;59;M;7310;college;agree;strongly agree;strongly disagree
+322;60;F;7320;college;agree;strongly disagree;strongly disagree
+323;61;M;7330;college;agree;strongly agree;strongly disagree
+324;62;F;7340;college;agree;strongly disagree;strongly disagree
+325;63;M;7350;college;strongly disagree;strongly agree;strongly disagree
+326;64;F;6000;college;agree;strongly disagree;strongly disagree
+327;65;M;5990;college;agree;strongly agree;strongly disagree
+328;66;F;5980;college;agree;strongly disagree;strongly disagree
+329;67;M;5970;college;agree;strongly agree;strongly disagree
+330;68;F;5960;primary school;agree;strongly disagree;strongly disagree
+331;69;M;5950;college;agree;strongly agree;strongly disagree
+332;70;F;5940;college;agree;strongly disagree;strongly disagree
+333;71;M;5930;vocational school;agree;strongly agree;strongly disagree
+334;72;F;5920;vocational school;agree;strongly disagree;strongly disagree
+335;73;M;5910;vocational school;agree;strongly agree;strongly disagree
+336;74;F;5900;vocational school;agree;strongly disagree;strongly disagree
+337;75;M;5890;vocational school;agree;strongly agree;strongly disagree
+338;76;F;5880;primary school;agree;strongly disagree;strongly disagree
+339;77;M;5870;vocational school;agree;strongly agree;strongly disagree
+340;78;F;5860;vocational school;strongly agree;strongly disagree;strongly disagree
+341;79;M;5850;primary school;strongly agree;strongly agree;strongly disagree
+342;80;F;5840;vocational school;strongly agree;strongly disagree;strongly disagree
+343;81;F;5830;primary school;strongly agree;strongly agree;strongly disagree
+344;82;F;5820;primary school;strongly agree;strongly disagree;strongly disagree
+345;82;F;5810;college;strongly agree;neither agree nor disagree;strongly disagree
+346;84;F;5800;high school;strongly agree;neither agree nor disagree;strongly disagree
+347;85;F;5790;high school;strongly agree;neither agree nor disagree;strongly disagree
+348;86;F;5780;high school;disagree;neither agree nor disagree;strongly disagree
+349;87;F;5770;high school;strongly agree;neither agree nor disagree;strongly disagree
+350;88;F;5200;primary school;strongly agree;neither agree nor disagree;strongly disagree
+351;89;F;4400;high school;strongly agree;neither agree nor disagree;strongly disagree
+352;73;F;5740;high school;strongly agree;neither agree nor disagree;strongly disagree
+353;74;M;5730;high school;strongly agree;neither agree nor disagree;strongly disagree
+354;75;F;5720;high school;strongly agree;neither agree nor disagree;strongly disagree
+355;76;F;5710;college;strongly agree;neither agree nor disagree;strongly disagree
+356;77;F;5700;primary school;strongly agree;neither agree nor disagree;strongly disagree
+357;78;F;5690;high school;strongly agree;neither agree nor disagree;strongly disagree
+358;79;F;5680;high school;strongly disagree;neither agree nor disagree;strongly disagree
+359;80;F;5670;primary school;strongly agree;neither agree nor disagree;strongly disagree
