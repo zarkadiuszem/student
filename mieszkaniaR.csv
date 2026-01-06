@@ -1,0 +1,357 @@
+﻿cena_wynajmu;liczba_metrów;dzielnica;liczba_osób;ocena_standardu;internet;minimalny_okres_wynajmu;kaucja;wymagane_poręczenie;rodzaj_ogrzewania;data_wynajmu;dostęp_miejsce_parking;uwagi
+807;48;Zachód;3;Średni;Tak;1;PRAWDA;1;centralne;2026-04-30;Nie;Brak
+1659;73;Prawobrzeże;6;Wysoki;Tak;3;PRAWDA;0;prąd;2026-04-20;Nie;Brak
+1350;69;Północ;5;Średni;Tak;10;PRAWDA;0;węgiel;2026-03-26;Nie;Brak
+1784;65;Północ;4;Średni;Tak;9;PRAWDA;0;centralne;2026-02-17;Nie;Brak
+991;57;Północ;2;Niski;Tak;7;PRAWDA;0;gazowe;2026-04-04;Nie;Dobre ocieplenie, niskie koszty ogrzewania
+800;23;Zachód;2;Wysoki;Tak;2;PRAWDA;1;gazowe;2026-05-10;Nie;Brak
+1172;53;Północ;1;Średni;Tak;9;PRAWDA;0;gazowe;2026-09-04;Nie;Brak
+1166;54;Północ;6;Niski;Tak;6;FAŁSZ;0;gazowe;2026-01-23;Nie;Brak
+2430;56;Śródmieście;4;Wysoki;Tak;10;FAŁSZ;0;centralne;2026-03-18;Tak;Brak
+1518;75;Północ;5;Niski;Tak;Nie określono;FAŁSZ;0;centralne;2026-10-23;Nie;Brak
+800;31;Prawobrzeże;1;Średni;Tak;9;PRAWDA;0;centralne;2026-02-23;Nie;Brak
+2552;70;Północ;6;Bardzo wysoki;Tak;9;FAŁSZ;0;centralne;2026-05-06;Nie;Brak
+1151;65;Prawobrzeże;5;Wysoki;Nie określono;3;PRAWDA;0;węgiel;2026-11-12;Nie;Brak
+800;32;Prawobrzeże;2;Średni;Tak;6;FAŁSZ;0;węgiel;2026-02-26;Nie;Brak
+1007;30;Północ;2;Bardzo wysoki;Nie;5;PRAWDA;0;gazowe;2026-01-31;Nie;Brak
+991;48;Północ;2;Średni;Tak;4;FAŁSZ;1;prąd;2026-06-26;Tak;Brak
+1115;42;Zachód;2;Wysoki;Tak;8;PRAWDA;1;prąd;2026-04-21;Nie;Brak
+800;39;Północ;3;Średni;Tak;10;FAŁSZ;0;gazowe;2026-07-25;Nie;Brak
+2803;58;Śródmieście;3;Bardzo wysoki;Nie określono;5;FAŁSZ;0;centralne;2026-10-21;Nie;Brak
+1064;41;Śródmieście;2;Niski;Tak;Nie określono;PRAWDA;0;centralne;2026-02-20;Tak;Brak
+1267;67;Prawobrzeże;4;Niski;Nie;10;PRAWDA;0;prąd;2026-07-31;Nie;Brak
+846;35;Śródmieście;1;Niski;Nie;4;FAŁSZ;0;prąd;2026-07-04;Tak;Brak
+800;28;Prawobrzeże;2;Średni;Tak;4;PRAWDA;1;gazowe;2026-02-22;Tak;Brak
+1220;41;Zachód;3;Wysoki;Tak;7;FAŁSZ;1;centralne;2026-08-16;Tak;Brak
+902;56;Prawobrzeże;3;Średni;Tak;3;PRAWDA;0;centralne;2026-04-10;Tak;Brak
+2419;75;Północ;5;Bardzo wysoki;Tak;Nie określono;PRAWDA;0;centralne;2026-06-28;Nie;Brak
+800;37;Prawobrzeże;2;Bardzo wysoki;Nie;7;PRAWDA;0;gazowe;2026-01-31;Nie;Brak
+1196;49;Zachód;3;Wysoki;Nie;8;PRAWDA;0;prąd;2026-06-17;Nie;Brak
+1992;73;Północ;4;Średni;Tak;2;FAŁSZ;0;centralne;2026-04-22;Nie;Brak
+800;20;Śródmieście;1;Średni;Tak;3;PRAWDA;0;węgiel;2026-10-28;Tak;Brak
+1098;64;Prawobrzeże;4;Średni;Nie;12;PRAWDA;0;prąd;2026-01-21;Nie;Brak
+918;35;Śródmieście;2;Średni;Tak;3;PRAWDA;0;centralne;2026-06-02;Nie;Brak
+800;25;Prawobrzeże;1;Wysoki;Nie;Nie określono;PRAWDA;0;centralne;2026-06-17;Nie;Brak
+2171;91;Zachód;6;Niski;Tak;10;FAŁSZ;1;centralne;2026-09-22;Nie;Brak
+1756;87;Prawobrzeże;6;Średni;Tak;4;FAŁSZ;0;gazowe;2026-07-29;Nie;Brak
+1380;77;Prawobrzeże;5;Średni;Tak;4;PRAWDA;0;centralne;2026-09-01;Tak;Remont kuchni w 2024 r.
+1214;53;Prawobrzeże;2;Wysoki;Tak;1;FAŁSZ;0;gazowe;2026-10-11;Nie;Brak
+800;28;Północ;1;Średni;Tak;2;FAŁSZ;0;centralne;2026-11-11;Tak;Brak
+2278;66;Śródmieście;4;Średni;Tak;1;PRAWDA;0;gazowe;2026-04-25;Nie;Brak
+929;44;Prawobrzeże;3;Wysoki;Tak;11;FAŁSZ;0;gazowe;2026-07-16;Nie;Brak
+1026;31;Zachód;1;Bardzo wysoki;Tak;9;PRAWDA;1;gazowe;2026-11-03;Nie;Sypialnia od strony południowej
+813;46;Północ;3;Średni;Nie;1;PRAWDA;0;gazowe;2026-12-28;Tak;Brak
+800;29;Północ;1;Średni;Tak;4;FAŁSZ;1;centralne;2026-11-21;Nie;Brak
+2524;85;Północ;6;Wysoki;Tak;11;PRAWDA;0;centralne;2026-05-16;Tak;Brak
+800;28;Północ;2;Niski;Tak;12;FAŁSZ;0;centralne;2026-03-13;Nie;Brak
+3107;83;Śródmieście;4;Wysoki;Tak;9;FAŁSZ;0;gazowe;2026-06-28;Tak;Brak
+800;25;Prawobrzeże;2;Średni;Tak;5;PRAWDA;0;gazowe;2026-09-28;Tak;Brak
+800;33;Prawobrzeże;3;Niski;Tak;10;FAŁSZ;0;gazowe;2026-06-29;Nie;Brak
+1524;61;Zachód;3;Średni;Tak;11;PRAWDA;0;gazowe;2026-06-26;Nie;Brak
+1107;47;Zachód;2;Średni;Tak;Nie określono;PRAWDA;0;prąd;2026-11-02;Tak;Brak
+2815;85;Północ;6;Wysoki;Tak;6;PRAWDA;1;gazowe;2026-05-12;Tak;Brak
+2469;75;Północ;5;Wysoki;Tak;3;FAŁSZ;1;centralne;2026-11-10;Nie;Brak
+2279;77;Śródmieście;6;Niski;Nie określono;10;PRAWDA;1;gazowe;2026-05-29;Nie;Brak
+1654;67;Północ;6;Średni;Tak;10;PRAWDA;0;gazowe;2026-04-30;Nie;Brak
+932;58;Prawobrzeże;4;Niski;Tak;5;FAŁSZ;0;centralne;2026-06-15;Tak;Brak
+1582;69;Prawobrzeże;6;Wysoki;Tak;5;FAŁSZ;0;centralne;2026-10-06;Nie;Brak
+1282;39;Śródmieście;1;Wysoki;Tak;5;FAŁSZ;0;gazowe;2026-02-15;Tak;Brak
+1877;36;Śródmieście;2;Bardzo wysoki;Tak;10;PRAWDA;0;gazowe;2026-03-13;Tak;Brak
+800;18;Prawobrzeże;1;Średni;Tak;7;PRAWDA;0;centralne;2026-12-14;Nie;Brak
+800;34;Prawobrzeże;2;Wysoki;Nie określono;3;PRAWDA;0;gazowe;2026-03-06;Nie;Brak
+961;52;Prawobrzeże;3;Niski;Tak;9;FAŁSZ;0;gazowe;2026-07-27;Tak;Brak
+1122;31;Śródmieście;2;Średni;Tak;Nie określono;PRAWDA;1;prąd;2026-07-31;Tak;Duża piwnica
+1000;58;Prawobrzeże;5;Niski;Tak;Nie określono;PRAWDA;0;centralne;2026-06-28;Tak;Brak
+1187;50;Prawobrzeże;3;Wysoki;Tak;12;FAŁSZ;0;centralne;2026-08-24;Nie;Brak
+800;40;Zachód;2;Niski;Tak;4;PRAWDA;0;centralne;2026-03-25;Nie;Brak
+800;41;Prawobrzeże;3;Średni;Tak;4;FAŁSZ;1;centralne;2026-07-21;Tak;Brak
+800;22;Śródmieście;1;Średni;Tak;Nie określono;FAŁSZ;0;centralne;2026-05-16;Tak;Brak
+1203;70;Prawobrzeże;5;Średni;Nie;10;FAŁSZ;0;centralne;2026-08-30;Nie;Brak
+800;10;Prawobrzeże;1;Średni;Tak;12;PRAWDA;1;centralne;2026-02-21;Nie;Brak
+800;16;Prawobrzeże;Nie określono;Średni;Tak;7;PRAWDA;1;gazowe;2026-07-28;Nie;Brak
+3087;59;Śródmieście;5;Wysoki;Tak;8;FAŁSZ;0;centralne;2026-03-09;Tak;Brak
+1163;35;Zachód;2;Bardzo wysoki;Tak;6;FAŁSZ;0;centralne;2026-04-12;Tak;Brak
+800;31;Zachód;1;Niski;Tak;9;FAŁSZ;0;prąd;2026-03-21;Nie;Brak
+2086;85;Północ;5;Średni;Tak;12;PRAWDA;0;centralne;2026-03-08;Nie;Brak
+2689;78;Śródmieście;5;Średni;Tak;4;FAŁSZ;0;centralne;2026-10-29;Tak;Brak
+1064;66;Prawobrzeże;5;Średni;Nie;Nie określono;FAŁSZ;1;gazowe;2026-04-15;Nie;Brak
+1758;67;Północ;5;Wysoki;Tak;Nie określono;FAŁSZ;0;centralne;2026-12-05;Tak;Brak
+800;15;Zachód;1;Wysoki;Tak;9;FAŁSZ;0;gazowe;2026-12-21;Nie;Brak
+800;47;Prawobrzeże;3;Średni;Nie;2;FAŁSZ;0;gazowe;2026-07-28;Tak;Brak
+800;24;Prawobrzeże;1;Średni;Tak;7;PRAWDA;0;gazowe;2026-02-22;Tak;Brak
+2042;81;Prawobrzeże;6;Wysoki;Tak;2;PRAWDA;0;centralne;2026-05-17;Nie;Nowe meble w kuchni
+966;48;Prawobrzeże;4;Średni;Tak;11;PRAWDA;0;gazowe;2026-10-19;Nie;Brak
+1285;44;Prawobrzeże;2;Bardzo wysoki;Tak;7;PRAWDA;0;centralne;2026-05-15;Nie;Brak
+1491;46;Śródmieście;1;Średni;Tak;10;PRAWDA;0;prąd;2026-02-01;Nie;Brak
+996;36;Północ;2;Wysoki;Nie określono;9;PRAWDA;0;gazowe;2026-07-23;Tak;Brak
+809;42;Zachód;2;Średni;Tak;5;PRAWDA;0;centralne;2026-11-05;Nie;Brak
+2082;76;Zachód;5;Wysoki;Tak;3;PRAWDA;1;centralne;2026-10-18;Tak;Brak
+1306;53;Północ;4;Średni;Tak;5;PRAWDA;0;gazowe;2026-03-05;Nie;Mieszkanie bardzo jasne - polecam
+2513;80;Północ;6;Bardzo wysoki;Tak;3;FAŁSZ;0;węgiel;2026-09-03;Nie;Brak
+1543;48;Północ;3;Bardzo wysoki;Tak;5;FAŁSZ;0;gazowe;2026-03-22;Nie;Brak
+1320;29;Śródmieście;1;Wysoki;Tak;9;PRAWDA;0;centralne;2026-03-21;Tak;Świetna komunikacja miejska
+1343;58;Północ;5;Średni;Nie określono;1;FAŁSZ;0;centralne;2026-11-16;Nie;Brak
+2597;68;Śródmieście;5;Średni;Tak;4;PRAWDA;0;centralne;2026-04-02;Nie;Brak
+1766;63;Północ;4;Wysoki;Tak;9;PRAWDA;1;centralne;2026-04-07;Nie;Brak
+4086;85;Śródmieście;5;Średni;Tak;7;PRAWDA;0;gazowe;2026-01-01;Tak;Brak
+1012;59;Północ;3;Niski;Tak;8;PRAWDA;0;gazowe;2026-11-14;Tak;Brak
+1591;73;Północ;3;Średni;Tak;2;FAŁSZ;0;centralne;2026-10-17;Nie;Brak
+1273;38;Zachód;3;Bardzo wysoki;Tak;11;FAŁSZ;1;centralne;2026-08-17;Nie;Brak
+800;38;Zachód;1;Średni;Nie;Nie określono;PRAWDA;0;węgiel;2026-10-01;Tak;Brak
+800;30;Prawobrzeże;1;Wysoki;Tak;1;PRAWDA;0;węgiel;2026-02-25;Nie;Brak
+1223;54;Zachód;1;Wysoki;Tak;6;PRAWDA;0;węgiel;2026-06-17;Tak;Brak
+969;48;Północ;4;Niski;Nie;10;PRAWDA;0;centralne;2026-05-09;Nie;Brak
+800;27;Zachód;2;Wysoki;Nie;2;PRAWDA;1;gazowe;2026-02-04;Tak;Brak
+800;40;Zachód;3;Średni;Tak;9;PRAWDA;0;węgiel;2026-06-27;Tak;Brak
+1273;52;Północ;6;Średni;Tak;2;FAŁSZ;0;centralne;2026-12-03;Nie;Brak
+800;31;Prawobrzeże;2;Średni;Tak;3;FAŁSZ;1;gazowe;2026-01-15;Tak;Brak
+813;38;Północ;3;Średni;Nie określono;6;PRAWDA;1;prąd;2026-04-17;Nie;Możliwość wynajmu długoterminowego
+2446;69;Północ;5;Bardzo wysoki;Nie;8;FAŁSZ;1;prąd;2026-03-17;Nie;Brak
+1515;42;Śródmieście;2;Wysoki;Tak;11;PRAWDA;0;centralne;2026-03-28;Tak;Łazienka po remoncie
+1200;50;Północ;1;Średni;Nie;3;PRAWDA;0;gazowe;2026-11-28;Nie;Brak
+1405;49;Prawobrzeże;2;Bardzo wysoki;Tak;7;PRAWDA;0;centralne;2026-06-20;Nie;Brak
+800;31;Zachód;2;Wysoki;Tak;10;PRAWDA;0;węgiel;2026-06-20;Tak;Brak
+2048;67;Zachód;6;Bardzo wysoki;Tak;4;FAŁSZ;0;prąd;2026-10-05;Nie;Brak
+2480;73;Północ;5;Bardzo wysoki;Nie;8;PRAWDA;0;gazowe;2026-02-26;Nie;Brak
+1098;42;Prawobrzeże;4;Wysoki;Tak;6;PRAWDA;0;gazowe;2026-06-27;Nie;Brak
+3592;99;Północ;6;Wysoki;Nie;11;PRAWDA;0;prąd;2026-06-06;Tak;Wysokie sufity
+1315;82;Prawobrzeże;5;Średni;Nie;8;PRAWDA;0;centralne;2026-08-06;Tak;Brak
+800;32;Zachód;2;Średni;Tak;10;FAŁSZ;0;centralne;2026-12-31;Tak;Brak
+1156;57;Prawobrzeże;6;Średni;Tak;2;PRAWDA;1;prąd;2026-10-08;Nie;Brak
+2519;64;Śródmieście;3;Wysoki;Tak;Nie określono;PRAWDA;0;gazowe;2026-05-26;Nie;Brak
+2158;66;Północ;5;Wysoki;Tak;8;PRAWDA;0;centralne;2026-10-30;Nie;Brak
+3703;92;Śródmieście;6;Wysoki;Tak;10;PRAWDA;0;gazowe;2026-03-04;Tak;Brak
+800;18;Śródmieście;2;Średni;Tak;6;PRAWDA;0;centralne;2026-01-12;Tak;Brak
+800;20;Zachód;1;Średni;Nie;7;FAŁSZ;0;węgiel;2026-03-16;Nie;Brak
+1150;38;Prawobrzeże;2;Bardzo wysoki;Tak;2;PRAWDA;0;centralne;2026-05-05;Nie;Brak
+800;48;Prawobrzeże;3;Niski;Tak;5;FAŁSZ;0;prąd;2026-07-06;Tak;Brak
+1676;62;Prawobrzeże;5;Bardzo wysoki;Tak;8;FAŁSZ;0;centralne;2026-08-13;Nie;Brak
+1452;85;Zachód;6;Średni;Tak;8;FAŁSZ;0;gazowe;2026-11-29;Tak;Brak
+800;15;Zachód;1;Średni;Tak;12;PRAWDA;0;gazowe;2026-07-06;Nie;Brak
+964;46;Śródmieście;3;Niski;Tak;5;PRAWDA;1;centralne;2026-07-02;Nie;Brak
+1735;49;Śródmieście;3;Średni;Nie;7;PRAWDA;1;centralne;2026-01-19;Tak;Brak
+1488;44;Śródmieście;2;Średni;Tak;8;FAŁSZ;0;gazowe;2026-01-13;Tak;Brak
+800;36;Prawobrzeże;1;Wysoki;Nie określono;12;PRAWDA;0;centralne;2026-07-21;Nie;Brak
+800;24;Zachód;2;Średni;Nie;12;PRAWDA;0;centralne;2026-06-09;Tak;Brak
+2203;59;Północ;6;Bardzo wysoki;Tak;3;PRAWDA;1;centralne;2026-11-03;Nie;Brak
+914;53;Północ;2;Niski;Nie;11;PRAWDA;0;centralne;2026-02-28;Nie;Brak
+1056;51;Północ;3;Średni;Tak;8;PRAWDA;0;centralne;2026-01-10;Nie;Brak
+927;59;Prawobrzeże;5;Średni;Nie;12;PRAWDA;1;gazowe;2026-06-13;Nie;Brak
+1127;66;Prawobrzeże;3;Średni;Tak;8;FAŁSZ;0;gazowe;2026-03-28;Nie;Brak
+1469;47;Śródmieście;Nie określono;Średni;Nie;12;PRAWDA;1;centralne;2026-01-19;Tak;Brak
+1692;92;Prawobrzeże;6;Średni;Nie;5;PRAWDA;0;centralne;2026-09-22;Nie;Brak
+1292;38;Śródmieście;2;Średni;Nie;6;PRAWDA;0;gazowe;2026-02-10;Nie;Brak
+1721;72;Prawobrzeże;3;Bardzo wysoki;Nie;3;PRAWDA;0;węgiel;2026-08-11;Nie;Brak
+1978;59;Północ;2;Bardzo wysoki;Tak;12;PRAWDA;1;węgiel;2026-04-13;Tak;Brak
+1007;35;Północ;2;Wysoki;Tak;7;FAŁSZ;1;centralne;2026-03-05;Tak;Brak
+1105;39;Północ;1;Wysoki;Tak;7;PRAWDA;0;gazowe;2026-05-19;Nie;Brak
+1810;65;Śródmieście;4;Niski;Tak;2;FAŁSZ;0;węgiel;2026-10-20;Tak;Brak
+1460;64;Północ;3;Wysoki;Tak;6;PRAWDA;0;centralne;2026-05-24;Nie;Mieszkanie po remoncie generalnym
+800;16;Śródmieście;1;Niski;Tak;11;PRAWDA;1;węgiel;2026-10-02;Nie;Brak
+1045;46;Północ;2;Wysoki;Nie określono;11;FAŁSZ;0;węgiel;2026-02-15;Nie;Brak
+3248;90;Śródmieście;6;Wysoki;Tak;3;PRAWDA;0;węgiel;2026-10-10;Nie;Brak
+800;16;Zachód;2;Średni;Nie;9;PRAWDA;0;centralne;2026-03-28;Nie;Brak
+800;13;Śródmieście;1;Średni;Tak;10;PRAWDA;0;gazowe;2026-09-05;Nie;Brak
+800;23;Prawobrzeże;3;Średni;Nie;Nie określono;PRAWDA;0;centralne;2026-07-26;Tak;Brak
+800;39;Prawobrzeże;Nie określono;Średni;Nie;12;FAŁSZ;0;centralne;2026-12-06;Nie;Brak
+1011;46;Północ;2;Średni;Tak;4;PRAWDA;0;centralne;2026-05-22;Nie;Brak
+2226;76;Śródmieście;4;Wysoki;Tak;6;FAŁSZ;1;gazowe;2026-01-25;Nie;Brak
+883;68;Prawobrzeże;5;Niski;Nie;12;FAŁSZ;0;gazowe;2026-01-07;Nie;Brak
+1198;57;Północ;2;Niski;Tak;2;PRAWDA;0;prąd;2026-10-29;Tak;Brak
+2156;51;Śródmieście;5;Średni;Tak;12;FAŁSZ;1;centralne;2026-07-11;Nie;Brak
+800;27;Północ;3;Wysoki;Tak;8;PRAWDA;0;prąd;2026-10-10;Nie;Brak
+1022;57;Zachód;4;Średni;Tak;3;FAŁSZ;0;węgiel;2026-03-27;Tak;Brak
+1813;62;Prawobrzeże;4;Bardzo wysoki;Tak;10;PRAWDA;0;centralne;2026-05-06;Nie;Brak
+1337;47;Prawobrzeże;3;Bardzo wysoki;Tak;12;FAŁSZ;1;centralne;2026-01-11;Nie;Brak
+800;5;Śródmieście;1;Wysoki;Tak;1;PRAWDA;0;prąd;2026-12-17;Nie;Brak
+1557;66;Północ;5;Średni;Tak;4;PRAWDA;1;centralne;2026-09-01;Nie;Brak
+800;22;Śródmieście;2;Niski;Nie określono;3;PRAWDA;0;centralne;2026-12-07;Nie;Brak
+1142;46;Północ;2;Średni;Tak;10;FAŁSZ;0;gazowe;2026-04-07;Tak;Brak
+800;32;Prawobrzeże;1;Średni;Nie określono;7;PRAWDA;0;centralne;2026-08-12;Nie;Brak
+1014;46;Zachód;4;Średni;Tak;6;PRAWDA;1;centralne;2026-09-05;Tak;Brak
+1544;51;Zachód;4;Wysoki;Tak;12;FAŁSZ;0;gazowe;2026-04-26;Nie;Brak
+800;15;Śródmieście;1;Wysoki;Tak;11;FAŁSZ;1;gazowe;2026-11-06;Nie;Brak
+1028;47;Północ;3;Niski;Tak;4;FAŁSZ;0;gazowe;2026-12-12;Tak;Brak
+2243;49;Śródmieście;2;Bardzo wysoki;Tak;2;FAŁSZ;0;gazowe;2026-11-19;Tak;W pobliżu plac zabaw
+972;46;Północ;4;Niski;Tak;8;FAŁSZ;0;gazowe;2026-09-27;Nie;Brak
+800;44;Prawobrzeże;2;Średni;Tak;Nie określono;FAŁSZ;1;centralne;2026-04-12;Tak;Brak
+959;51;Zachód;4;Średni;Tak;6;PRAWDA;0;prąd;2026-04-13;Nie;Brak
+800;38;Prawobrzeże;3;Średni;Tak;12;PRAWDA;0;centralne;2026-12-18;Tak;Brak
+1803;76;Zachód;6;Średni;Tak;7;FAŁSZ;0;gazowe;2026-01-04;Tak;Brak
+800;15;Północ;1;Niski;Tak;3;PRAWDA;1;gazowe;2026-09-19;Nie;Brak
+800;31;Prawobrzeże;2;Niski;Nie;9;PRAWDA;0;centralne;2026-09-15;Nie;Brak
+800;13;Północ;1;Średni;Tak;5;PRAWDA;0;centralne;2026-08-16;Nie;Brak
+2158;101;Zachód;6;Wysoki;Tak;Nie określono;FAŁSZ;0;węgiel;2026-12-28;Tak;Brak
+3091;78;Śródmieście;6;Średni;Nie określono;4;PRAWDA;0;centralne;2026-04-24;Nie;Blisko centrum handlowego
+800;29;Zachód;2;Niski;Tak;12;PRAWDA;0;węgiel;2026-05-05;Nie;Brak
+2903;60;Śródmieście;4;Wysoki;Tak;9;PRAWDA;1;gazowe;2026-01-29;Nie;Brak
+2371;66;Śródmieście;5;Średni;Nie określono;2;PRAWDA;1;centralne;2026-06-11;Nie;Brak
+1216;55;Zachód;4;Średni;Tak;6;PRAWDA;0;gazowe;2026-04-06;Nie;Brak
+1148;55;Prawobrzeże;3;Średni;Tak;7;PRAWDA;0;prąd;2026-05-06;Nie;Brak
+1503;47;Północ;2;Wysoki;Tak;2;PRAWDA;0;centralne;2026-11-01;Tak;Brak
+800;21;Prawobrzeże;1;Średni;Tak;6;FAŁSZ;0;gazowe;2026-12-08;Nie;Brak
+1210;71;Zachód;6;Niski;Tak;5;PRAWDA;0;gazowe;2026-03-09;Tak;Brak
+2156;74;Zachód;6;Wysoki;Tak;3;FAŁSZ;0;gazowe;2026-05-16;Nie;Brak
+800;30;Prawobrzeże;4;Wysoki;Tak;11;FAŁSZ;0;centralne;2026-12-05;Tak;Brak
+800;19;Śródmieście;2;Niski;Tak;9;PRAWDA;0;gazowe;2026-01-23;Nie;Brak
+1128;54;Zachód;2;Wysoki;Nie określono;10;FAŁSZ;0;centralne;2026-02-03;Nie;Brak
+1342;87;Prawobrzeże;5;Niski;Nie;6;PRAWDA;0;gazowe;2026-03-01;Tak;Brak
+2527;75;Śródmieście;6;Średni;Tak;3;FAŁSZ;0;centralne;2026-08-06;Tak;Dodatkowe miejsce do pracy (biurko)
+2229;84;Zachód;6;Wysoki;Tak;3;PRAWDA;0;węgiel;2026-02-24;Tak;Bardzo ciche, okna na podwórze
+1165;71;Prawobrzeże;5;Niski;Tak;9;FAŁSZ;0;węgiel;2026-12-20;Nie;Brak
+3083;94;Śródmieście;4;Średni;Tak;7;PRAWDA;0;węgiel;2026-06-13;Nie;Brak
+948;41;Północ;1;Średni;Tak;9;PRAWDA;0;gazowe;2026-07-03;Tak;Brak
+965;36;Zachód;2;Wysoki;Tak;7;PRAWDA;0;gazowe;2026-04-01;Nie;Brak
+1698;66;Zachód;6;Średni;Nie;3;FAŁSZ;0;centralne;2026-06-21;Tak;Brak
+1070;38;Zachód;4;Wysoki;Tak;8;FAŁSZ;0;centralne;2026-08-30;Nie;Brak
+805;30;Północ;1;Wysoki;Tak;4;PRAWDA;0;centralne;2026-10-02;Nie;Brak
+800;18;Zachód;1;Niski;Tak;9;PRAWDA;1;gazowe;2026-10-03;Tak;Blisko stacji tramwajowej
+830;40;Zachód;4;Wysoki;Tak;Nie określono;PRAWDA;0;gazowe;2026-07-30;Nie;Brak
+800;20;Północ;1;Średni;Nie;9;FAŁSZ;0;gazowe;2026-11-27;Tak;Winda w budynku
+800;25;Zachód;2;Wysoki;Tak;5;PRAWDA;0;prąd;2026-10-26;Tak;Brak
+1123;68;Prawobrzeże;3;Średni;Nie;11;FAŁSZ;0;gazowe;2026-10-04;Tak;Brak
+3385;68;Śródmieście;4;Wysoki;Tak;9;PRAWDA;0;centralne;2026-01-21;Tak;Brak
+871;57;Prawobrzeże;4;Niski;Tak;Nie określono;PRAWDA;0;gazowe;2026-01-03;Nie;Brak
+1090;55;Prawobrzeże;2;Średni;Tak;8;PRAWDA;0;centralne;2026-03-19;Nie;Brak
+1754;68;Prawobrzeże;5;Wysoki;Tak;6;PRAWDA;0;gazowe;2026-08-31;Nie;Brak
+1363;27;Śródmieście;2;Bardzo wysoki;Tak;7;PRAWDA;0;prąd;2026-05-31;Tak;Brak
+1656;56;Północ;2;Wysoki;Nie;1;PRAWDA;0;prąd;2026-05-27;Tak;Brak
+2596;74;Śródmieście;5;Średni;Tak;12;FAŁSZ;1;gazowe;2026-11-19;Nie;Brak
+1118;45;Prawobrzeże;4;Wysoki;Tak;2;PRAWDA;0;prąd;2026-11-23;Nie;Brak
+1488;65;Północ;5;Średni;Tak;5;PRAWDA;0;prąd;2026-11-28;Tak;Brak
+999;47;Północ;4;Średni;Tak;Nie określono;PRAWDA;0;węgiel;2026-04-25;Nie;Brak
+833;41;Zachód;4;Wysoki;Tak;3;PRAWDA;1;węgiel;2026-09-10;Nie;Brak
+800;39;Północ;1;Średni;Nie określono;5;PRAWDA;0;gazowe;2026-04-10;Nie;Brak
+1787;70;Śródmieście;3;Średni;Nie;9;PRAWDA;0;centralne;2026-03-11;Nie;Brak
+800;21;Zachód;2;Wysoki;Nie określono;1;PRAWDA;0;gazowe;2026-03-09;Tak;Brak
+2094;44;Śródmieście;2;Wysoki;Tak;Nie określono;PRAWDA;0;gazowe;2026-05-05;Tak;Brak
+800;31;Prawobrzeże;Nie określono;Bardzo wysoki;Tak;8;PRAWDA;0;prąd;2026-06-06;Nie;Brak
+821;42;Prawobrzeże;3;Średni;Tak;8;PRAWDA;0;gazowe;2026-10-31;Tak;Brak
+1856;70;Zachód;6;Średni;Tak;12;PRAWDA;0;centralne;2026-02-13;Nie;Brak
+800;47;Prawobrzeże;4;Średni;Nie;9;PRAWDA;0;węgiel;2026-09-26;Nie;Brak
+1441;68;Zachód;5;Średni;Tak;4;FAŁSZ;0;prąd;2026-07-13;Tak;Brak
+1041;38;Północ;3;Średni;Tak;8;PRAWDA;0;prąd;2026-04-16;Nie;Brak
+1342;61;Zachód;4;Średni;Tak;6;FAŁSZ;0;gazowe;2026-06-29;Tak;Brak
+800;47;Zachód;3;Niski;Tak;3;PRAWDA;0;gazowe;2026-04-20;Nie;Okna wymienione na nowe
+839;35;Zachód;2;Wysoki;Tak;7;FAŁSZ;0;centralne;2026-08-06;Nie;Brak
+1758;57;Północ;5;Wysoki;Tak;4;FAŁSZ;1;gazowe;2026-06-08;Nie;Brak
+800;31;Zachód;2;Wysoki;Tak;3;PRAWDA;0;gazowe;2026-03-02;Nie;Brak
+822;37;Północ;1;Bardzo wysoki;Tak;2;FAŁSZ;0;centralne;2026-02-12;Nie;Brak
+1355;64;Północ;4;Średni;Tak;11;PRAWDA;0;węgiel;2026-07-19;Nie;Brak
+800;26;Śródmieście;2;Niski;Nie;1;PRAWDA;1;centralne;2026-11-26;Nie;Brak
+2392;79;Zachód;6;Bardzo wysoki;Nie;6;FAŁSZ;0;gazowe;2026-05-06;Tak;Brak
+2725;87;Zachód;6;Wysoki;Nie określono;Nie określono;FAŁSZ;0;centralne;2026-09-25;Tak;Brak
+1239;57;Zachód;6;Średni;Nie;1;PRAWDA;0;gazowe;2026-08-29;Tak;Brak
+1070;54;Północ;3;Niski;Tak;Nie określono;PRAWDA;0;gazowe;2026-12-07;Tak;Brak
+800;20;Północ;1;Wysoki;Tak;11;PRAWDA;0;węgiel;2026-10-27;Nie;Brak
+3144;84;Śródmieście;6;Średni;Tak;12;PRAWDA;0;centralne;2026-07-26;Nie;Brak
+1053;38;Prawobrzeże;3;Bardzo wysoki;Tak;9;FAŁSZ;0;węgiel;2026-08-28;Nie;Brak
+1047;56;Prawobrzeże;6;Wysoki;Nie;1;PRAWDA;1;gazowe;2026-11-24;Tak;Brak
+964;58;Północ;6;Niski;Tak;3;PRAWDA;0;węgiel;2026-05-26;Nie;Brak
+1776;78;Północ;6;Niski;Nie;4;PRAWDA;0;centralne;2026-04-30;Tak;Brak
+1571;41;Północ;2;Bardzo wysoki;Tak;6;PRAWDA;0;centralne;2026-01-04;Nie;Brak
+800;37;Prawobrzeże;3;Niski;Tak;1;PRAWDA;0;centralne;2026-10-29;Nie;Brak
+1525;85;Prawobrzeże;6;Średni;Tak;11;PRAWDA;0;prąd;2026-10-20;Tak;Brak
+800;18;Prawobrzeże;2;Niski;Nie;1;FAŁSZ;0;centralne;2026-02-08;Tak;Brak
+800;37;Zachód;2;Średni;Tak;5;FAŁSZ;0;centralne;2026-07-30;Tak;Brak
+1183;43;Północ;4;Średni;Tak;10;PRAWDA;1;prąd;2026-06-19;Nie;Brak
+1785;70;Północ;6;Średni;Tak;9;FAŁSZ;1;węgiel;2026-02-13;Nie;Brak
+2053;58;Śródmieście;4;Średni;Tak;5;FAŁSZ;0;centralne;2026-12-24;Nie;Brak
+1036;47;Prawobrzeże;4;Wysoki;Tak;1;FAŁSZ;0;centralne;2026-03-20;Tak;Brak
+800;23;Zachód;1;Bardzo wysoki;Tak;3;PRAWDA;1;centralne;2026-01-25;Nie;Brak
+2071;70;Zachód;4;Wysoki;Tak;7;PRAWDA;0;gazowe;2026-08-06;Nie;Zamykana klatka schodowa
+800;33;Prawobrzeże;Nie określono;Średni;Tak;11;PRAWDA;1;centralne;2026-09-27;Nie;Brak
+1120;38;Północ;1;Wysoki;Tak;Nie określono;PRAWDA;0;prąd;2026-01-12;Tak;Brak
+927;34;Zachód;3;Średni;Tak;1;PRAWDA;0;prąd;2026-08-29;Tak;Brak
+1595;84;Zachód;6;Niski;Tak;3;PRAWDA;0;gazowe;2026-07-14;Nie;Brak
+3532;85;Północ;5;Bardzo wysoki;Tak;8;PRAWDA;0;centralne;2026-02-07;Nie;Brak
+945;28;Śródmieście;4;Średni;Tak;12;FAŁSZ;0;gazowe;2026-03-04;Tak;Brak
+1516;58;Prawobrzeże;5;Średni;Tak;1;PRAWDA;0;prąd;2026-07-27;Tak;Brak
+1178;54;Zachód;3;Niski;Nie określono;7;PRAWDA;0;prąd;2026-04-19;Nie;Brak
+800;35;Prawobrzeże;2;Wysoki;Tak;5;FAŁSZ;0;centralne;2026-12-09;Nie;Brak
+1690;72;Zachód;5;Średni;Tak;Nie określono;FAŁSZ;0;węgiel;2026-10-26;Nie;Brak
+2615;60;Śródmieście;5;Średni;Tak;7;FAŁSZ;1;centralne;2026-12-26;Nie;Brak
+2978;79;Śródmieście;6;Niski;Tak;7;FAŁSZ;0;centralne;2026-04-05;Nie;Brak
+1268;76;Północ;6;Średni;Nie;Nie określono;PRAWDA;1;gazowe;2026-12-20;Tak;Dobre sąsiedztwo
+1238;62;Prawobrzeże;3;Średni;Tak;2;FAŁSZ;0;centralne;2026-06-07;Nie;Brak
+999;51;Prawobrzeże;3;Średni;Tak;1;PRAWDA;0;centralne;2026-05-07;Nie;Brak
+1284;72;Prawobrzeże;5;Niski;Tak;2;PRAWDA;1;centralne;2026-01-19;Nie;Brak
+1080;53;Prawobrzeże;4;Średni;Tak;12;PRAWDA;0;centralne;2026-01-20;Nie;Brak
+2148;62;Zachód;5;Bardzo wysoki;Tak;1;PRAWDA;0;prąd;2026-09-10;Tak;Brak
+1445;62;Północ;5;Niski;Nie;Nie określono;PRAWDA;0;gazowe;2026-06-17;Tak;Brak
+1734;82;Prawobrzeże;6;Średni;Tak;9;PRAWDA;0;centralne;2026-03-24;Tak;Brak
+800;32;Zachód;2;Średni;Tak;9;FAŁSZ;0;centralne;2026-08-13;Tak;Szybki internet w cenie
+1505;51;Zachód;3;Wysoki;Tak;3;PRAWDA;1;centralne;2026-04-03;Tak;Brak
+1147;52;Zachód;1;Średni;Nie określono;10;PRAWDA;0;centralne;2026-07-30;Nie;Brak
+1927;68;Zachód;4;Wysoki;Tak;3;FAŁSZ;0;gazowe;2026-05-12;Nie;Brak
+800;24;Prawobrzeże;1;Średni;Nie;9;PRAWDA;0;gazowe;2026-10-28;Nie;Brak
+1678;62;Północ;3;Wysoki;Tak;3;PRAWDA;0;centralne;2026-10-27;Nie;Brak
+800;43;Zachód;3;Średni;Tak;11;FAŁSZ;0;centralne;2026-06-24;Nie;Balkon z widokiem
+800;13;Śródmieście;2;Niski;Tak;6;PRAWDA;0;gazowe;2026-05-09;Nie;Brak
+1283;45;Prawobrzeże;4;Bardzo wysoki;Tak;8;PRAWDA;0;centralne;2026-05-13;Nie;Okolica cicha wieczorami
+800;5;Zachód;1;Niski;Tak;9;FAŁSZ;0;centralne;2026-10-22;Tak;Brak
+800;23;Prawobrzeże;1;Średni;Nie;3;PRAWDA;0;centralne;2026-04-30;Tak;Brak
+1073;68;Prawobrzeże;5;Niski;Tak;7;PRAWDA;0;węgiel;2026-03-18;Nie;Brak
+2004;68;Północ;3;Średni;Tak;10;FAŁSZ;0;gazowe;2026-01-31;Nie;Brak
+1120;31;Śródmieście;1;Średni;Tak;1;FAŁSZ;0;gazowe;2026-06-20;Nie;Brak
+1448;45;Śródmieście;3;Średni;Nie określono;9;PRAWDA;1;węgiel;2026-06-25;Tak;Mieszkanie bardzo jasne - polecam
+1242;77;Prawobrzeże;5;Niski;Nie;9;PRAWDA;0;centralne;2026-11-03;Tak;Brak
+800;11;Zachód;2;Średni;Tak;Nie określono;PRAWDA;0;centralne;2026-03-22;Nie;Brak
+1115;60;Północ;4;Wysoki;Nie określono;11;PRAWDA;0;węgiel;2026-05-20;Tak;Brak
+800;37;Prawobrzeże;1;Średni;Tak;3;PRAWDA;0;węgiel;2026-10-23;Nie;Brak
+800;10;Zachód;1;Średni;Tak;Nie określono;PRAWDA;0;prąd;2026-10-28;Nie;Brak
+1401;61;Zachód;3;Średni;Tak;6;FAŁSZ;0;centralne;2026-05-21;Nie;Brak
+1042;52;Zachód;3;Średni;Nie;12;PRAWDA;0;centralne;2026-06-17;Nie;Brak
+1043;53;Zachód;4;Średni;Tak;3;PRAWDA;0;centralne;2026-04-21;Nie;Brak
+2712;75;Śródmieście;5;Średni;Tak;12;PRAWDA;0;gazowe;2026-12-07;Nie;Brak
+3406;90;Śródmieście;Nie określono;Wysoki;Tak;7;FAŁSZ;0;centralne;2026-02-13;Nie;Brak
+896;50;Prawobrzeże;3;Średni;Nie;10;PRAWDA;0;gazowe;2026-12-07;Nie;Brak
+1487;40;Północ;2;Bardzo wysoki;Tak;6;PRAWDA;0;prąd;2026-09-07;Tak;Brak
+1751;62;Północ;5;Wysoki;Tak;1;FAŁSZ;1;centralne;2026-07-14;Tak;Brak
+800;27;Północ;2;Wysoki;Tak;2;PRAWDA;1;centralne;2026-01-12;Tak;Ogródek do użytku
+2428;57;Śródmieście;3;Wysoki;Tak;5;PRAWDA;1;centralne;2026-06-23;Nie;Brak
+800;17;Północ;1;Średni;Tak;5;PRAWDA;1;gazowe;2026-05-29;Nie;Dobre dla pary lub singla
+800;28;Prawobrzeże;1;Wysoki;Nie;1;PRAWDA;1;gazowe;2026-02-28;Nie;Brak
+1184;72;Prawobrzeże;6;Średni;Tak;3;PRAWDA;0;centralne;2026-08-28;Tak;Brak
+3330;73;Śródmieście;5;Wysoki;Tak;Nie określono;PRAWDA;0;gazowe;2026-12-21;Tak;Brak
+1400;62;Prawobrzeże;4;Wysoki;Tak;12;PRAWDA;0;centralne;2026-07-25;Nie;Brak
+1287;60;Zachód;3;Wysoki;Nie;Nie określono;PRAWDA;0;prąd;2026-09-18;Tak;Brak
+988;31;Północ;2;Bardzo wysoki;Tak;11;FAŁSZ;0;prąd;2026-01-25;Nie;Parking strzeżony w pobliżu
+800;34;Północ;2;Średni;Tak;1;FAŁSZ;0;centralne;2026-06-02;Nie;Brak
+939;26;Śródmieście;2;Średni;Nie;5;FAŁSZ;0;gazowe;2026-02-12;Nie;Brak
+926;42;Zachód;3;Średni;Nie;4;FAŁSZ;0;prąd;2026-08-12;Tak;Brak
+1636;72;Północ;5;Średni;Nie;6;PRAWDA;1;prąd;2026-12-09;Tak;Brak
+3328;67;Śródmieście;4;Wysoki;Nie;4;FAŁSZ;0;gazowe;2026-08-30;Tak;Brak
+822;26;Śródmieście;2;Niski;Tak;2;PRAWDA;0;centralne;2026-01-29;Nie;Duże okna, dużo światła
+2006;88;Północ;6;Średni;Nie;8;FAŁSZ;0;gazowe;2026-05-10;Nie;Brak
+1368;84;Zachód;5;Średni;Tak;3;FAŁSZ;0;węgiel;2026-07-20;Tak;Brak
+1922;62;Zachód;4;Bardzo wysoki;Nie;4;FAŁSZ;1;prąd;2026-05-28;Nie;Kaucja możliwa do negocjacji
+3327;80;Śródmieście;4;Wysoki;Tak;6;FAŁSZ;0;gazowe;2026-11-01;Nie;Brak
+1029;38;Zachód;3;Wysoki;Nie;11;PRAWDA;0;prąd;2026-10-25;Tak;Brak
+800;23;Zachód;2;Wysoki;Tak;2;PRAWDA;0;centralne;2026-08-12;Nie;Brak
+1015;26;Śródmieście;3;Średni;Tak;5;PRAWDA;0;prąd;2026-05-17;Nie;Brak
+1602;85;Zachód;5;Średni;Tak;5;PRAWDA;0;centralne;2026-04-04;Tak;Brak
+1033;35;Śródmieście;1;Średni;Nie określono;5;PRAWDA;0;węgiel;2026-02-08;Tak;Brak
+847;27;Śródmieście;1;Średni;Nie;5;PRAWDA;0;gazowe;2026-05-10;Nie;Brak
+1350;31;Śródmieście;1;Średni;Tak;6;FAŁSZ;0;gazowe;2026-05-31;Nie;Brak
+800;14;Zachód;1;Średni;Tak;12;PRAWDA;0;gazowe;2026-09-04;Nie;Blisko sklepu i parku
+1719;107;Prawobrzeże;6;Niski;Tak;11;FAŁSZ;1;prąd;2026-08-29;Nie;Brak
+1960;69;Zachód;5;Bardzo wysoki;Tak;4;FAŁSZ;0;węgiel;2026-01-26;Nie;Brak
+1269;49;Zachód;3;Wysoki;Nie;Nie określono;FAŁSZ;1;prąd;2026-05-25;Nie;Brak
+800;36;Prawobrzeże;1;Bardzo wysoki;Tak;6;FAŁSZ;0;prąd;2026-03-08;Nie;Brak
+1145;53;Zachód;3;Średni;Tak;5;PRAWDA;0;gazowe;2026-02-27;Nie;Brak
+800;50;Prawobrzeże;3;Niski;Nie;2;FAŁSZ;0;centralne;2026-10-29;Tak;Brak
+800;28;Północ;2;Wysoki;Tak;5;FAŁSZ;0;gazowe;2026-01-16;Nie;Brak
+1329;53;Śródmieście;3;Niski;Tak;3;PRAWDA;0;gazowe;2026-06-03;Nie;Brak
+1491;70;Prawobrzeże;3;Bardzo wysoki;Tak;2;PRAWDA;0;gazowe;2026-03-03;Nie;Brak
+1624;74;Zachód;4;Niski;Tak;3;FAŁSZ;0;centralne;2026-11-17;Nie;Brak
+2329;77;Zachód;4;Wysoki;Tak;5;PRAWDA;1;gazowe;2026-07-23;Tak;Brak
+800;21;Północ;1;Wysoki;Tak;12;PRAWDA;0;gazowe;2026-03-26;Tak;Brak
+800;36;Prawobrzeże;3;Średni;Tak;11;FAŁSZ;0;gazowe;2026-07-03;Tak;Brak
+1689;56;Północ;4;Wysoki;Nie;3;PRAWDA;0;gazowe;2026-09-24;Nie;Brak
+1608;48;Śródmieście;3;Wysoki;Tak;8;PRAWDA;0;prąd;2026-12-16;Nie;Brak
+1954;91;Zachód;6;Wysoki;Nie;2;FAŁSZ;0;węgiel;2026-03-22;Tak;Brak
+1570;37;Śródmieście;4;Średni;Tak;3;PRAWDA;0;prąd;2026-11-20;Nie;Brak
+1438;56;Północ;2;Średni;Tak;3;PRAWDA;0;centralne;2026-12-08;Nie;Brak
+1085;26;Śródmieście;1;Wysoki;Tak;8;PRAWDA;0;gazowe;2026-12-01;Nie;Brak
+1326;52;Północ;4;Średni;Tak;8;PRAWDA;0;węgiel;2026-08-20;Nie;Brak
